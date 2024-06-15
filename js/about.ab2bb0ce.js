@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshirt"]=self["webpackChunkshirt"]||[]).push([[594],{4186:function(n,t,u){u.r(t),u.d(t,{default:function(){return f}});var r=u(641);const s={class:"about"},a=(0,r.Lk)("h1",null,"This is an about page",-1),e=[a];function c(n,t){return(0,r.uX)(),(0,r.CE)("div",s,e)}var i=u(6262);const h={},o=(0,i.A)(h,[["render",c]]);var f=o}}]);
+//# sourceMappingURL=about.ab2bb0ce.js.map
